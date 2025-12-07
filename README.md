@@ -18,5 +18,4 @@ This repo is meant for learning, experimentation, and steady improvement.
 - Scikit-learn  
 - Jupyter Notebook  
 
-## Project Structure
 
